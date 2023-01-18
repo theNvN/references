@@ -1,5 +1,11 @@
 # @wagmi/chains
 
+## 0.1.11
+
+### Patch Changes
+
+- dba0258: Added `public` RPC URLs to Chains for public RPC endpoints.
+
 ## 0.1.10
 
 ### Patch Changes
